@@ -1,6 +1,5 @@
 Hi,  I’m ighotegunor Great i'm skilled in all data anlysis tools
 I’m interested in learning sql
-I’m currently learning sql
 you can reach me on my gmail
 ighotegunorgreat@gmail.com
 
