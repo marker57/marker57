@@ -1,6 +1,14 @@
-Hi,  I’m ighotegunor Great i'm skilled in all data anlysis tools
-I’m interested in learning sql
-you can reach me on my gmail
+## ABOUT ME🙌
+**I’m Ighotegunor Great** i'm a Data Analyst with passion and drive to be one of the best Data Analyst and making visualization fun and interactive
+ here some of my project below
+
+## SKILL⚒️
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+## contact📱
+**you can reach me on my gmail**
 ighotegunorgreat@gmail.com
 
 <!---
